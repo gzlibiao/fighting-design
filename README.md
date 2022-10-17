@@ -6,4 +6,4 @@
 
 ## 🐳 线上地址
 
-http://f.tianyuhao.cn
+https://f.tianyuhao.cn
